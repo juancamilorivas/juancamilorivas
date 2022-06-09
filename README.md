@@ -4,12 +4,12 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/67404147/172750895-7be37f12-3e35-4adf-888f-82873c916571.png" />
-<h3 align="center">¡Hey 👋! Soy Camilo 👨🏻‍💻</h3>
+<h3 align="center">¡Hey 👋!Hi, I'm Camilo! 👨🏻‍💻</h3>
 </p>
 
 
 
-Hi, I'm Camilo! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+ I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
 
 Find me around the web 🌎:
