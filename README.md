@@ -4,7 +4,7 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/67404147/172750895-7be37f12-3e35-4adf-888f-82873c916571.png" />
-<h3 align="center">¡Hey 👋!Hi, I'm Camilo! 👨🏻‍💻</h3>
+<h3 align="center">👋!Hi, I'm Camilo! 👨🏻‍💻</h3>
 </p>
 
 
