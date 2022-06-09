@@ -1,16 +1,16 @@
-### Hi there 👋
 
-
-# Hello 👋🏾 👩🏾‍💻
+# Hello 👋
 
 Hi, I'm Camilo! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 Find me around the web 🌎:
 - Yotube <a href="https://www.youtube.com/channel/UCf-1JGloHimadLZvx4hUbpA">Youtube</a>  📹 ✍🏾
 - Twitter <a href="https://twitter.com/camilorimo">Twitter</a> 🏓
 - LinkdIn <a href="https://www.linkedin.com/in/juan-camilo-rivas-molina-a079291b1/">LinkedIn</a> 💼
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 ### Tech & Tools Preference
 
