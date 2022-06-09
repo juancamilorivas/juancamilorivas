@@ -1,9 +1,10 @@
 
 # Hello 👋
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 Hi, I'm Camilo! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 Find me around the web 🌎:
 - Yotube <a href="https://www.youtube.com/channel/UCf-1JGloHimadLZvx4hUbpA">Youtube</a>  📹 ✍🏾
