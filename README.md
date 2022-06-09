@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+# Hello 👋🏾 👩🏾‍💻
+
+Hi, I'm Camilo! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+
+Find me around the web 🌎:
+- Yotube <a href="https://www.youtube.com/channel/UCf-1JGloHimadLZvx4hUbpA">Youtube</a>  📹 ✍🏾
+- Twitter <a href="https://twitter.com/camilorimo">Twitter</a> 🏓
+- LinkdIn <a href="https://www.linkedin.com/in/juan-camilo-rivas-molina-a079291b1/">LinkedIn</a> 💼
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -16,20 +28,5 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
-# Hello 👋🏾 👩🏾‍💻
-
-Hi, I'm Camilo! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
-
-Find me around the web 🌎:
-- Yotube <a href="https://www.youtube.com/channel/UCf-1JGloHimadLZvx4hUbpA">Youtube</a>  📹 ✍🏾
-- Twitter <a href="https://twitter.com/camilorimo">Twitter</a> 🏓
-- LinkdIn <a href="https://www.linkedin.com/in/juan-camilo-rivas-molina-a079291b1/">LinkedIn</a> 💼
-
-
 ---
 ⭐️ From [Camilo Rivas](https://github.com/juancamilorivas)
-
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
