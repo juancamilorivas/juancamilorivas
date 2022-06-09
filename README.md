@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="#" />
+   <img align="center" width="https://user-images.githubusercontent.com/67404147/172748843-629870f6-f947-46af-abaf-8e8764d9e5d8.png)" />
    <h3 align="center">¡Hey 👋! Soy Camilo 👨🏻‍💻</h3>
 </p>
 
