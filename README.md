@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 ### Tech & Tools Preference
 
@@ -19,7 +20,6 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 
