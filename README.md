@@ -16,7 +16,13 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
+<br><br>
+<a href="https://github.com/ankitwarbhe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+</a>
+<a href="https://github.com/ankitwarbhe">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+</a>
 
 <!--
 **juancamilorivas/juancamilorivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
