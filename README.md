@@ -3,7 +3,7 @@
 
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/67404147/172780486-74dc1655-c1f9-4339-a0cf-e7a8c007e52b.png" />
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/67404147/173031349-5454733d-1332-43f9-9740-6c2e5064c701.png" />
 <h3 align="center">👋!Hi, I'm Camilo! 👨🏻‍💻</h3>
 </p>
 
