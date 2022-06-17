@@ -8,15 +8,19 @@
 </p>
 
 
+<p align="center">
+ I'm a software engineer who is passionate about create and explore business ideas, creating technology to elevate people, and building community. 
+</p>
 
- I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
-
-
+<p align="center" with="300">
 Find me around the web 🌎:
+   </br>
 - Yotube <a href="https://www.youtube.com/channel/UCf-1JGloHimadLZvx4hUbpA">Youtube</a>  📹 ✍🏾
+   </br>
 - Twitter <a href="https://twitter.com/camilorimo">Twitter</a> 🏓
+- </br>
 - LinkdIn <a href="https://www.linkedin.com/in/juan-camilo-rivas-molina-a079291b1/">LinkedIn</a> 💼
-
+</p>
 
 
 ### Tech & Tools Preference
