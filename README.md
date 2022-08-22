@@ -30,7 +30,7 @@ Find me around the web 🌎:
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-React%20Native-%23000000">
-<img src="https://img.shields.io/badge/-Next.js-blue">
+<img src="https://img.shields.io/badge/-Next.js-%235E17EB">
 </br>
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
