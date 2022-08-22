@@ -9,7 +9,7 @@
 
 
 <p align="center">
- Business ideas, creating technology to elevate people, and building community. 
+ Business ideas creating technology. 
 </p>
 
 <p align="center" with="300">
