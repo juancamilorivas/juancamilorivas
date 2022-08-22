@@ -16,8 +16,6 @@
 Find me around the web 🌎:
    </br>
 - Yotube <a href="https://www.youtube.com/channel/UCf-1JGloHimadLZvx4hUbpA">Youtube</a>  📹 ✍🏾
-   </br>
-- Twitter <a href="https://twitter.com/camilorimo">Twitter</a> 🏓
 - </br>
 - LinkdIn <a href="https://www.linkedin.com/in/juan-camilo-rivas-molina-a079291b1/">LinkedIn</a> 💼
 </p>
