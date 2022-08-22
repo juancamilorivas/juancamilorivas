@@ -9,7 +9,7 @@
 
 
 <p align="center">
- I'm a software engineer who is passionate about create and explore business ideas, creating technology to elevate people, and building community. 
+ Business ideas, creating technology to elevate people, and building community. 
 </p>
 
 <p align="center" with="300">
