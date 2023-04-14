@@ -9,7 +9,7 @@
 
 
 <p align="center">
- Business ideas creating technology. 
+ Business ideas creating technology
 </p>
 
 <p align="center" with="300">
